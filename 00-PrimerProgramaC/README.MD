@@ -1,4 +1,4 @@
-# RESOLUCION DEL Y PRESENTACION DEL TP0
+# RESOLUCION Y PRESENTACION DEL TP0
 
 En este tp0 vamos a estar instalando y configurando todo para poder programar en c
 La idea es descargar un IDE (en mi caso vscode) e instalarle las extensiones necesarias.
